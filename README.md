@@ -51,4 +51,6 @@
 ![Badge](https://img.shields.io/badge/Ubuntu_Budgie-20.04-6F02B5?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Badge](https://img.shields.io/badge/Intel-Core_i5_3th-00AAEF?style=for-the-badge&logo=intel&logoColor=white)
 
+<p align="center">
 ![Gabriel Bizzi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielBizzi&&show_icons=true&title_color=ffffff&icon_color=31a8ff&text_color=e1e1e1&bg_color=262626)
+</p>
