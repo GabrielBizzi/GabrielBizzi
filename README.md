@@ -1,7 +1,7 @@
 
 # Gabriel A. Bizzi
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/gabriel-bizzi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -52,5 +52,5 @@
 ![Badge](https://img.shields.io/badge/Intel-Core_i5_3th-00AAEF?style=for-the-badge&logo=intel&logoColor=white)
 
 <p align="center">
-![Gabriel Bizzi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielBizzi&&show_icons=true&title_color=ffffff&icon_color=31a8ff&text_color=e1e1e1&bg_color=262626)
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielBizzi&&show_icons=true&title_color=ffffff&icon_color=31a8ff&text_color=e1e1e1&bg_color=262626" />
 </p>
