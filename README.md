@@ -47,11 +47,11 @@
 ![Badge](https://img.shields.io/badge/Adobe_XD-ff61f6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![Badge](https://img.shields.io/badge/Adobe_Photoshop-31a8ff?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Badge](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Badge](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=557C94)
+![Badge](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ### Workspace - OS
 
-![Badge](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=0078D6)
+![Badge](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Badge](https://img.shields.io/badge/Intel-Core_i5_3th-00AAEF?style=for-the-badge&logo=intel&logoColor=white)
 
 <p align="center">
