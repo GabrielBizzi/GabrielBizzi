@@ -23,7 +23,7 @@
 
    * Tenho 19 anos e 4 anos de experiência em Desenvolvimento Web;
    
-   * Eu sou Desenvolvedor Fullstack, Web-Designer, Designer e Segurança da Informação;
+   * Eu sou Desenvolvedor Fullstack Pleno, Web-Designer, Designer e Segurança da Informação;
    
    * Minha experiência está voltada a React.JS, Next.JS, Bootstrap, Pentest e Typescript;
    
@@ -48,6 +48,12 @@
 ![Badge](https://img.shields.io/badge/Adobe_Photoshop-31a8ff?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Badge](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Badge](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Badge](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Badge](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Badge](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Badge](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
 
 ### Workspace - OS
 
