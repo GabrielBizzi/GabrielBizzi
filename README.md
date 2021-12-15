@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://api.whatsapp.com/send?phone=5511993904809">
+  <a href="https://api.whatsapp.com/send?phone=5511963757171">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   
@@ -23,9 +23,9 @@
 
    * Tenho 19 anos e 4 anos de experiência em Desenvolvimento Web;
    
-   * Eu sou Desenvolvedor Front-End e Web-Designer;
+   * Eu sou Desenvolvedor Fullstack, Web-Designer, Designer e Segurança da Informação;
    
-   * Minha experiência está voltada a React.JS, Next.JS e Bootstrap;
+   * Minha experiência está voltada a React.JS, Next.JS, Bootstrap, Pentest e Typescript;
    
    * Resido atualmente em São Paulo - SP
 
@@ -47,10 +47,11 @@
 ![Badge](https://img.shields.io/badge/Adobe_XD-ff61f6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![Badge](https://img.shields.io/badge/Adobe_Photoshop-31a8ff?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Badge](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Badge](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=557C94)
 
 ### Workspace - OS
 
-![Badge](https://img.shields.io/badge/Ubuntu_Budgie-20.04-6F02B5?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Badge](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=0078D6)
 ![Badge](https://img.shields.io/badge/Intel-Core_i5_3th-00AAEF?style=for-the-badge&logo=intel&logoColor=white)
 
 <p align="center">
