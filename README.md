@@ -1,4 +1,3 @@
-
 # Gabriel A. Bizzi
 
 <p align="left">
@@ -21,7 +20,7 @@
 
 
 
-   * Tenho 19 anos e 4 anos de experiência em Desenvolvimento Web;
+   * Tenho 20 anos e 5 anos de experiência em Desenvolvimento Web;
    
    * Eu sou Desenvolvedor Fullstack Pleno, Web-Designer, Designer e Segurança da Informação;
    
