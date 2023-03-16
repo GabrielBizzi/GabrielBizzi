@@ -22,7 +22,7 @@
 
    * Tenho 20 anos e 5 anos de experiência em Desenvolvimento Web;
    
-   * Eu sou Desenvolvedor Fullstack Pleno, Web-Designer, Designer e Segurança da Informação;
+   * Eu sou Desenvolvedor Fullstack Sênior, Web-Designer, Designer e Segurança da Informação;
    
    * Minha experiência está voltada a React.JS, Next.JS, Bootstrap, Pentest e Typescript;
    
