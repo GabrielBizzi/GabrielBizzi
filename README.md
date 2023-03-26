@@ -18,9 +18,11 @@
   </a>
 </p>
 
-
+<br />
 
 ### <div align="center">I am Senior Fullstack Developer, Web-Designer, Designer and Information Security 👨‍💻</div>  
+  
+  <br/>
   
 
 - 👾 I'm CTO and Co-founder of the company [Koda.dev](https://www.koda.dev.br/)  
