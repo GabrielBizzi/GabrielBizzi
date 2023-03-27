@@ -111,8 +111,9 @@
 <br/>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GabrielBizzi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielBizzi&show_icons=true&count_private=true&bg_color=00000000&hide=contribs&hide_border=true" align="center" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBizzi&bg_color=00000000&layout=compact&hide_border=true" align="center" /></div>
 <br/>  
 
 <div align="center">
