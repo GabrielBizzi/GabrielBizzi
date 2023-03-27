@@ -117,6 +117,7 @@
 <br/>  
 
 <div align="center">
+ <a href="https://wakatime.com/@c1a3fcd8-5318-42da-8868-86f5f64df8da"><img src="https://wakatime.com/badge/user/c1a3fcd8-5318-42da-8868-86f5f64df8da.svg?style=flat-square" align="center" alt="Total time coded since Feb 23 2021" /></a>
 <img src="https://komarev.com/ghpvc/?username=GabrielBizzi&&style=flat-square" align="center" />
 </div>  
 
