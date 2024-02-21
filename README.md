@@ -28,13 +28,13 @@
 - 👾 I'm CTO and Co-founder of the company [Koda.dev](https://www.koda.dev.br/)  
   
 
-- 🔭 I’m currently working on [Magna Sistemas](https://www.magnasistemas.com.br/)  
+- 🔭 I’m currently working on [Aceleraí](https://www.acelerai.com.br)  
   
 
-- 🌱 I'm currently learning Golang and Elixir  
+- 🌱 I'm currently learning Machine Learning and Artificial Inteligence  
   
 
-- ☕ Ask me about anything related to the front end and how to make really delicious coffee  
+- ☕ Ask me about anything related to the full-stack end and how to make really delicious coffee  
 
 <br />
 
