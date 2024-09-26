@@ -28,7 +28,7 @@
 - 👾 I'm CTO and Co-founder of the company [Koda.dev](https://www.koda.dev.br/)  
   
 
-- 🔭 I’m currently working on [Aceleraí](https://www.acelerai.com.br)  
+- 🔭 I’m currently working on [Lojas Torra](https://www.lojastorra.com.br/)  
   
 
 - 🌱 I'm currently learning Machine Learning and Artificial Inteligence  
